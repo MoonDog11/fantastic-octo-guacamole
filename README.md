@@ -1,2 +1,1 @@
-# fantastic-octo-guacamole
-Prep Course Henry_Modulo_2
+Como clonar desde la red un repositorio a mi computadora
